@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.container{
+    display: flex;
+   
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
+
+.nav-button{
+    display: flex;
+    border: none;
+    background-color: transparent;
+    text-decoration: none;
+    justify-content: space-between;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: larger;
+    margin-right: 20px;
+    position: relative;
+    margin-left: 100px;
+
+}
+
+.nav-button:hover{
+    color: rgb(87, 148, 108);
+}
+
+.logo button{
+    border: none;
+    cursor: pointer;
+    margin-left: 40px;
+    background-color: transparent;
+}
+
+.nav-bar{
+    margin-left: 100px;
+
+}
+
+
+.button{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    display: inline-block;
+    padding: 15px;
+}
+
+.profile-section{
+    display: flex;
+    align-items: center;
+    margin-top: -20px;
+}
+
+.profile-icon{
+    margin-left: 150px;
+}
+.login-button {
+    display: flex;
+    font-size: x-small;
+  
+
+}
+
+.login-button-text{
+    margin-top: 20px;
+}

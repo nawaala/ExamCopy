@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Sriracha&display=swap");
+
+.edvisits-title {
+  font-family: "Poppins", sans-serif;
+  color: rgb(255, 126, 33);
+}
+
+.educational-facts-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 150px;
+
+  padding-bottom: 150px;
+  gap: 30px;
+}
+
+.educational-facts-row .col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 5px;
+  margin: 0 10px;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+}
+
+.educational-facts-row .col img {
+  margin-bottom: 10px;
+  border-radius: 50%;
+}
+
+.resources-column {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  
+}
+
+.resources-heading {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(87, 148, 108);
+  font-size: 40px;
+}
+
+

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.footer-container{
+    height: 100px;
+    margin: 0;
+    background-color: rgb(255, 126, 33);
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.Footer{
+    background-color: rgb(255, 126, 33) ;
+}
+
+.Footer h1{
+    color: white;
+}
+.nav-button-footer{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+    padding-left: 120px;
+    font-size: larger;
+    cursor: pointer;
+}
+
+.nav-button-footer:hover{
+    color: rgb(87, 148, 108);
+}
+
+.Footer p{
+    font-weight: bolder;
+}
+
+.nav-button-footer{
+    background-color: transparent;
+    border: none;
+}
