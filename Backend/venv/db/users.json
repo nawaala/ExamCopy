@@ -9,6 +9,12 @@
             "email": "test123@gmail.com",
             "password": "test12345",
             "username": "test123"
+        },
+        {
+            "id": "6a392b9b82a84c88886cb62ef56baee5",
+            "email": "elma.almulla@gmail.com",
+            "password": "eaelma66",
+            "username": "elma.almulla"
         }
     ]
 }

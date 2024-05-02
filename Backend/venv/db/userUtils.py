@@ -1,4 +1,5 @@
 from db.dbutils import generateUuid
+import json
 
 #get users from the users.json
 def getUsers():
